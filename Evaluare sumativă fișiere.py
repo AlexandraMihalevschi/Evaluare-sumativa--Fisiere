@@ -4,7 +4,6 @@ with open("C:/Users/Alexandra/Desktop/Python/INPUT.txt", 'r') as f:
 with open("C:/Users/Alexandra/Desktop/Python/INPUT.txt", 'r') as f:
     tx = list(f)
 
-
 with open("C:/Users/Alexandra/Desktop/Python/INPUT.txt", 'r') as f:
     with open('REZERVA.txt', 'w') as r:
         for i in f:
